@@ -42,6 +42,10 @@ Sets C, D, and E were generated using data from the presurgical iEEG archive. Th
 | RNN Based Transformer                     | 75.00%     |
 | **1D Convolutional Neural Network (CNN)** | **87.50%** |
 
+The Best Models were deployed in the Web-Application:
+- Detection - LSTM
+- Localization - 1D-CNN
+
 ## Web Application - Screenshots:
 ![Home Page](WebApp-Screenshots/01_home_page.png)
 ![No Seizure Detected](WebApp-Screenshots/02_no_seizure_detected.png)
