@@ -43,3 +43,8 @@ Sets C, D, and E were generated using data from the presurgical iEEG archive. Th
 | **1D Convolutional Neural Network (CNN)** | **87.50%** |
 
 ## Web Application - Screenshots:
+![Home Page](WebApp-Screenshots/01_home_page.png)
+![No Seizure Detected](WebApp-Screenshots/02_no_seizure_detected.png)
+![Seizure Detected](WebApp-Screenshots/03_seizure_detected.png)
+![Focal Signal](WebApp-Screenshots/04_focal_signal.png)
+![Non-Focal Signal](WebApp-Screenshots/05_non_focal_signal.png)
